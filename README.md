@@ -2,9 +2,14 @@
 ***
 This App May be used for adding your favorite books to your book club reading list. Take a look here to see what others recommend and how much they cost! The user may delete a book or edit a book at the click of a button.
 
+## Links
+***
 [Click Here](https://bookmarts.netlify.app/) to see the deployed app!
+
 [Miro Board](https://miro.com/app/board/uXjVOvAprYo=/)
+
 [Frontend Github Repo](https://github.com/SunghunP/Books-Mart-Frontend)
+
 [Backend Github Repo](https://github.com/SunghunP/Books-Mart-Backend)
 
 
