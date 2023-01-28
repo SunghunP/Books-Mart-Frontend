@@ -17,7 +17,7 @@ export default function App() {
   const [books, setBooks] = useState(null)
   const [showBook, setShowBook] = useState({})
 
-  const URL = "https://rj-books-mart-backend.herokuapp.com/books/"
+  const URL = "https://booksclub.onrender.com/books/"
 
   // index
   const getBooks = async () => {
